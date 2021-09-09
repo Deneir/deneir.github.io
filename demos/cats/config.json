@@ -1,6 +1,6 @@
 {
   "graphUrl": "/demo-graph.json",
   "detailsUrl": "",
-  "apiBaseUrl": "http://localhost:5000",
+  "apiBaseUrl": "https://deneir.github.io/demos/cats",
   "authToken": "test"
 }
