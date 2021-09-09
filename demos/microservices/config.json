@@ -1,7 +1,7 @@
 {
   "graphUrl": "graph.json",
   "detailsUrl": "",
-  "apiBaseUrl": "https://deneir.github.io/microservices",
+  "apiBaseUrl": "https://deneir.github.io/demos/microservices",
   "detailsUrl": "details.json",
   "authToken": "test",
   "entityTypes": {

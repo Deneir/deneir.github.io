@@ -1,6 +1,6 @@
 {
   "graphUrl": "food.json",
-  "apiBaseUrl": "https://deneir.github.io/food",
+  "apiBaseUrl": "https://deneir.github.io/demos/food",
   "detailsUrl": "",
   "authToken": "test",
   "entityTypes": {
